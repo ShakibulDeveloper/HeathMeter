@@ -1,0 +1,167 @@
+@media(max-width:575px) {
+    #actionber h4 {
+        font-size: 14px;
+    }
+
+    #dashboard {
+        padding: 220px 0 65px;
+    }
+
+    .data_1 p {
+        font-size: 14px;
+        font-family: pr;
+        color: #222;
+    }
+
+    .padding_2 {
+        padding-top: 70px;
+    }
+
+    .main-result-txt {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .main-result {
+        margin-bottom: 40px;
+    }
+
+    .mob-hide {
+        display: none;
+    }
+
+    .padding_3 {
+        margin-top: 0;
+        padding-top: 70px;
+    }
+
+    .alert-pa {
+        margin-top: 70px;
+    }
+
+    .copy-right-txt {
+        text-align: center;
+    }
+
+}
+
+@media(min-width:576px) and (max-width:767px) {
+    #dashboard {
+        padding: 250px 0 65px;
+    }
+
+    .padding_2 {
+        padding-top: 80px;
+    }
+
+    .main-result {
+        margin-bottom: 80px;
+    }
+
+    .padding_3 {
+        margin-top: 40px;
+    }
+
+    .alert-pa {
+        margin-top: 70px;
+    }
+}
+
+@media(min-width:768px) and (max-width:991px) {
+    #dashboard {
+        padding: 250px 0 65px;
+    }
+
+    .padding_2 {
+        padding-top: 80px;
+    }
+
+    .main-result {
+        margin-bottom: 80px;
+    }
+
+    .padding_3 {
+        margin-top: 40px;
+    }
+
+    .alert-pa {
+        margin-top: 70px;
+    }
+}
+
+
+
+@media(max-width:991px) {
+    #homepage {
+        overflow: visible;
+    }
+
+    .navbar {
+        background: white;
+        box-shadow: 0 5px 20px rgba(0, 0, 0, .1);
+        padding-bottom: 25px;
+    }
+
+    .navbar-light .navbar-brand {
+        font-size: 21px;
+    }
+
+    .banner-main h1 {
+        font-size: 30px;
+    }
+
+    .eyeball-main {
+        display: none;
+    }
+
+    #banner {
+        padding: 150px 0 100px;
+    }
+
+    .banner-main {
+        height: none;
+    }
+
+    .banner-item {
+        top: 0;
+        transform: translateY(0);
+    }
+
+    .cr {
+        display: block;
+    }
+}
+
+@media(min-width:992px) and (max-width: 1122px) {
+    .banner-main h1 {
+        font-size: 36px;
+    }
+
+    .banner-item {
+        top: 55%;
+        transform: translateY(-55%);
+    }
+
+    .eye {
+        top: 50px;
+        width: 60px;
+        left: 29%;
+        height: 60px;
+    }
+
+    .eye2 {
+        top: 82px;
+        left: 70%;
+
+    }
+
+    .cornea {
+        width: 40px;
+        height: 40px;
+
+    }
+
+    .eyeball-main {
+        bottom: -206px;
+    }
+}
