@@ -3,3 +3,5 @@
 <br><br>
 <p><b>This Application is totally free</b> but if you want, you can buy a coffee for me!</p>
 <a href="https://ko-fi.com/shakibuldeveloper#checkoutModal">Click here to support</a>
+<h2>Are you looking for some Premium Website Templates,Themes etc?</h2>
+<p>Visit Our Store: <a href="https://epiktheme.com/">epiktheme.com</a></p>
