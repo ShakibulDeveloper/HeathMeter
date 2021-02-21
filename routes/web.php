@@ -7,6 +7,6 @@ Route::get('/', function () {
 });
 Route::post('/dashboard','DashboardController@dashboard')->name('dashboard');
 Route::get('/dashboard','DashboardController@ReturnHome');
-// Route::get('notice','DashboardController@notice');
+Route::get('/notice','DashboardController@notice');
 // Route::get('about','DashboardController@about');
 // Route::get('chat','DashboardController@chat');
