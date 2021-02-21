@@ -7,13 +7,13 @@
         <meta name="description" content="HealthMeter - Your Personal Health Checker Application" />
       <title>HealthMeter - Your Personal Health Checker Application </title>
       <!--font-awesome icons link-->
-      <link rel="stylesheet" href="{{  asset('frontend_assets/css/font-awesome.min.css') }}">
+      <link rel="stylesheet" href="{{  asset('public/frontend_assets/css/font-awesome.min.css') }}">
 
       <!-- Bootstrap CSS -->
-      <link rel="stylesheet" href="{{  asset('frontend_assets/css/bootstrap.min.css') }}">
+      <link rel="stylesheet" href="{{  asset('public/frontend_assets/css/bootstrap.min.css') }}">
       <!--main style file-->
-      <link rel="stylesheet" href="{{  asset('frontend_assets/css/style.css') }}">
-      <link rel="stylesheet" href="{{  asset('frontend_assets/css/responsive.css') }}">
+      <link rel="stylesheet" href="{{  asset('public/frontend_assets/css/style.css') }}">
+      <link rel="stylesheet" href="{{  asset('public/frontend_assets/css/responsive.css') }}">
   </head>
 
   <body id="homepage">
