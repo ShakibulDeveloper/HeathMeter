@@ -131,11 +131,11 @@
       <!-- HOMEPAGE AREA END -->
 
       <!-- Optional JavaScript -->
-      <script src="{{  asset('frontend_assets/js/jquery-3.3.1.min.js')}}"></script>
-      <script src="{{  asset('frontend_assets/js/bootstrap.min.js')}}"></script>
-      <script src="{{  asset('frontend_assets/js/jquery.isotope.min.js')}}"></script>
-      <script src="{{  asset('frontend_assets/js/typed.min.js')}}"></script>
-      <script src="{{  asset('frontend_assets/js/custom.js')}}"></script>
+      <script src="{{  asset('public/frontend_assets/js/jquery-3.3.1.min.js')}}"></script>
+      <script src="{{  asset('public/frontend_assets/js/bootstrap.min.js')}}"></script>
+      <script src="{{  asset('public/frontend_assets/js/jquery.isotope.min.js')}}"></script>
+      <script src="{{  asset('public/frontend_assets/js/typed.min.js')}}"></script>
+      <script src="{{  asset('public/frontend_assets/js/custom.js')}}"></script>
   </body>
 
   </html>
