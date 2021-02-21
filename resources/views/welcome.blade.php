@@ -64,12 +64,12 @@
                                       </div>
                                       <div class="col-lg-4">
                                           <div class="form-group">
-                                              <input type="text" name="age" class="form-control" placeholder="Your Age">
+                                              <input type="text" name="age" class="form-control" placeholder="Your Age( ex. 18)">
                                           </div>
                                       </div>
                                       <div class="col-lg-4">
                                           <div class="form-group">
-                                              <input type="text" name="weight" class="form-control" placeholder="Your weight">
+                                              <input type="text" name="weight" class="form-control" placeholder="Your weight (ex. 71)">
                                           </div>
                                       </div>
                                       <div class="col-lg-4">
@@ -83,7 +83,7 @@
                                       </div>
                                       <div class="col-lg-4">
                                           <div class="form-group">
-                                              <input type="text" name="height" class="form-control" placeholder="Your height">
+                                              <input type="text" name="height" class="form-control" placeholder="Your height (ex. 5.8)">
                                           </div>
                                       </div>
                                       <div class="col-lg-4">
